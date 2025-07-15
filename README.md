@@ -10,9 +10,7 @@
 
 ### 👨‍💻 About Me
 
-
 - 🌱 I’m currently learning: **Python, JavaScript, Arduino C++**
-- 🎯 Goal: Make tech that's fun *and* useful
 - 💬 Ask me about: Web dev, Arduino, or student dev life
 - 📫 How to reach me: [github.com/MifAsYu](https://github.com/MifAsYu)
 
@@ -38,24 +36,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MifAsYu&layout=compact&theme=radical" height="170px" />
 </p>
 
----
 
-### 🎯 Fun Fact
-
-> "Ngoding sambil ngantuk = bug,  
-> ngoding sambil kopi = fitur!" ☕😂
-
----
-
-### 🌐 Let's Connect
-<p align="center">
-  <a href="https://github.com/MifAsYu">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://instagram.com">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:youremail@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
